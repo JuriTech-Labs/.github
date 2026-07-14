@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="banniere-juritech-labs.png" alt="JuriTech Labs Banner" width="100%">
+  <img src="./banniere-juritech-labs.png" width="100%">
 </p>
-<div align="center">
 
 # JuriTech Labs
 
