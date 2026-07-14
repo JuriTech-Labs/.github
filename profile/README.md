@@ -53,7 +53,7 @@ Our infrastructure enables customers to deploy and host websites, applications, 
 
 ---
 
-## Technology Stack
+## Technology & Engineering Stack
 
 | Languages | Frameworks | Databases | Infrastructure |
 |------------|------------|-----------|----------------|
