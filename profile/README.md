@@ -15,7 +15,7 @@ Building secure, scalable and intelligent digital solutions for businesses, inst
 
 ---
 
-## Company
+## About JuriTech Labs
 
 JuriTech Labs is an international technology company specializing in Software Engineering, Artificial Intelligence, Legal Technology (LegalTech) and Digital Transformation.
 
