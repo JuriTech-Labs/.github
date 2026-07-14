@@ -37,7 +37,7 @@ Our multidisciplinary expertise combines software engineering, legal knowledge a
 
 ---
 
-## Infrastructure Services
+## Cloud Infrastructure & Hosting
 
 JuriTech Labs provides cloud infrastructure and hosting services through **juritechlabs.com**.
 
