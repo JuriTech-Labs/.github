@@ -96,7 +96,7 @@ Additional enterprise solutions are developed according to customer requirements
 
 **Cloud Infrastructure & Hosting**
 
-[Infrastructure Platform](https://juritechlabs.com)
+[Infrastructure Platform](https://juritechlabs.com/server)
 
 **Email**
 
