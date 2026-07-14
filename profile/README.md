@@ -92,11 +92,11 @@ Additional enterprise solutions are developed according to customer requirements
 
 **Website**
 
-https://juritechlabs.com
+[JuriTech Labs](https://juritechlabs.com)
 
 **Cloud Infrastructure & Hosting**
 
-https://juritechlabs.com
+[Infrastructure Platform](https://juritechlabs.com)
 
 **Email**
 
