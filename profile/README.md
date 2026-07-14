@@ -5,6 +5,8 @@
   <img src="https://raw.githubusercontent.com/JuriTech-Labs/.github/main/logo-juritech-labs.png" alt="JuriTech Labs Logo" width="180">
 </p>
 
+<div align="center">
+
 ### Software Engineering • Artificial Intelligence • Legal Technology • Cloud Infrastructure
 
 Building secure, scalable and intelligent digital solutions for businesses, institutions and entrepreneurs.
