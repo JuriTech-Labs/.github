@@ -81,8 +81,7 @@ Current software products include:
 - LES VERTS°
 - VOXENGINE
 - AXIS
-- AES-VITAL
-- RELUX
+- ...
 
 Additional enterprise solutions are developed according to customer requirements.
 
