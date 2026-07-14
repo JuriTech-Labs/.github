@@ -1,6 +1,9 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/JuriTech-Labs/.github/main/banniere-juritech-labs.png" width="100%">
 </p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/JuriTech-Labs/.github/main/logo-juritech-labs.png" alt="JuriTech Labs Logo" width="180">
+</p>
 
 ### Software Engineering • Artificial Intelligence • Legal Technology • Cloud Infrastructure
 
